@@ -1,2 +1,2 @@
 # FindS_Algorithm
-This is the code of FindS algorithm in Machine Learning
+This is the python code of and explanation of FindS algorithm in Machine Learning
